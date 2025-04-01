@@ -1,0 +1,24 @@
+# Company Internal Secrets - DO NOT SHARE
+# Last Updated: 2025-04-01
+
+# API Keys
+GOOGLE_MAPS_API_KEY="AIzaSyD-EXAMPLE-1234567890"
+STRIPE_SECRET_KEY="sk_live_51HhEXAMPLE9K1K2LQ8fC4"
+AWS_ACCESS_KEY_ID="AKIAIOSFODNN7EXAMPLE"
+AWS_SECRET_ACCESS_KEY="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
+# Database Credentials
+DB_HOST="db.internal.company.com"
+DB_USER="admin"
+DB_PASSWORD="S3cureP@ssw0rd!"
+DB_NAME="company_production"
+
+# Internal Services
+INTERNAL_API_TOKEN="b29fdc4a-8ebd-11eb-8dcd-0242ac130003"
+SLACK_WEBHOOK_URL="https://hooks.slack.com/services/T000/B000/abcd1234"
+
+# JWT Secret
+JWT_SECRET="u83jsdf82hfj2kjnsdKJs9d8*&#%FSD"
+
+# Debugging Mode
+DEBUG_MODE="false"
